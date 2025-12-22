@@ -1,1 +1,1 @@
-# Smart-bus-tracking
+Smart Bus Tracking Web Application is a real-time web app to track buses, manage routes, and monitor schedules. It provides live location updates, an interactive map, and an admin dashboard for efficient transport management.
